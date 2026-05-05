@@ -1,0 +1,9 @@
+# Changelog
+
+## [2026-05-05]
+### Added
+- Created the core `TaskTracker` application.
+- Added `Task` object class for better data handling.
+- Implemented File I/O to save tasks in `tasks.txt`.
+- Added `.gitignore` to keep the repository clean.
+- Added `TaskUtility` for timestamping tasks.
